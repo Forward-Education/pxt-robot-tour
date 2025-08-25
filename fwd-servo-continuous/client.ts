@@ -5,15 +5,6 @@ namespace fwdMotors {
             super(role)
         }
 
-        /**
-         * Set the servo to enabled or disabled.
-         * @param state enabled = true, disabled = false
-         */
-        //% group="Servo - Continuous"
-        //% block="turn $this $state"
-        //% blockId=fwd_servort_set_enabled
-        //% state.shadow="toggleOnOff"
-        //% weight=100
         // can't override this method or it will be called during ServoClient.setAngle()
         setEnabledFwd(state: boolean): void {
             super.setEnabled(state)
@@ -24,7 +15,7 @@ namespace fwdMotors {
          * Set the servo speed to between 100% and -100%. Negative speeds are the reverse direction.
          * @param speed the speed to set the servo to (%)
          */
-        //% group="Servo"
+        //% group="Driving"
         //% block="set $this to $speed \\%"
         //% blockId=fwd_servort_set_speed
         //% speed.min=-100 speed.max=100
