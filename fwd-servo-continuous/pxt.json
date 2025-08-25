@@ -1,6 +1,6 @@
 {
     "name": "fwd-servo-rt",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "FWD Edu Servo for Robot Tour",
     "license": "MIT",
     "dependencies": {
