@@ -1,0 +1,25 @@
+{
+    "name": "fwd-servo-base",
+    "version": "1.0.10",
+    "description": "FWD Edu Climate Action Kit Gen. 2 Generic Servo",
+    "license": "MIT",
+    "dependencies": {
+        "core": "*",
+        "jacdac": "github:jacdac/pxt-jacdac#v1.9.38",
+        "jacdac-servo": "github:jacdac/pxt-jacdac/servo#v1.9.38"
+    },
+    "files": [
+        "client.ts"
+    ],
+    "testFiles": [
+        "test.ts"
+    ],
+    "targetVersions": {
+        "target": "8.0.13",
+        "targetId": "microbit"
+    },
+    "supportedTargets": [
+        "microbit"
+    ],
+    "preferredEditor": "tsprj"
+}
