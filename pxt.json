@@ -1,6 +1,6 @@
 {
     "name": "fwd-robot-tour",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Forward Education blocks for Robot Tour 2025",
     "license": "MIT",
     "dependencies": {
@@ -13,6 +13,8 @@
         "target": "7.0.61",
         "targetId": "microbit"
     },
-    "supportedTargets": ["microbit"],
+    "supportedTargets": [
+        "microbit"
+    ],
     "preferredEditor": "tsprj"
 }
