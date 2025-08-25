@@ -1,7 +1,7 @@
 {
     "name": "fwd-robot-tour",
     "version": "1.0.1",
-    "description": "FWD Edu Robot Tour 2025",
+    "description": "Forward Education blocks for Robot Tour 2025",
     "license": "MIT",
     "dependencies": {
         "fwd-base": "github:Forward-Education/pxt-fwd-base#v1.0.12",
@@ -13,8 +13,6 @@
         "target": "7.0.61",
         "targetId": "microbit"
     },
-    "supportedTargets": [
-        "microbit"
-    ],
+    "supportedTargets": ["microbit"],
     "preferredEditor": "tsprj"
 }
