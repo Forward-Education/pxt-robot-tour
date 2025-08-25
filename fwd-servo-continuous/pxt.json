@@ -7,12 +7,17 @@
         "fwd-base": "github:Forward-Education/pxt-fwd-base#v1.0.12",
         "jacdac-servo": "github:jacdac/pxt-jacdac/servo#v1.9.38"
     },
-    "files": ["client.ts", "driving.ts"],
+    "files": [
+        "client.ts",
+        "driving.ts"
+    ],
     "testFiles": [],
     "targetVersions": {
-        "target": "7.0.61",
+        "target": "8.0.16",
         "targetId": "microbit"
     },
-    "supportedTargets": ["microbit"],
+    "supportedTargets": [
+        "microbit"
+    ],
     "preferredEditor": "tsprj"
 }

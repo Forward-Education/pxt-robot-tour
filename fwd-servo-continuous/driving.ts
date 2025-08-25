@@ -1,14 +1,14 @@
 namespace fwdMotors {
     function createDrivingControls() {
         let enabled = false
-        let leftMotor: fwdBase.FwdServoClient
-        let rightMotor: fwdBase.FwdServoClient
+        let leftMotor: fwdMotors.FwdServoClient
+        let rightMotor: fwdMotors.FwdServoClient
         let leftBias = 1
         let rightBias = 1
 
         function initMotors(
-            left: fwdBase.FwdServoClient,
-            right: fwdBase.FwdServoClient,
+            left: fwdMotors.FwdServoClient,
+            right: fwdMotors.FwdServoClient,
             bias = 0
         ) {
             leftMotor = left
@@ -62,8 +62,8 @@ namespace fwdMotors {
     //% inlineInputMode=external
     //% weight=100
     export function setupDriving(
-        left: fwdBase.FwdServoClient,
-        right: fwdBase.FwdServoClient,
+        left: fwdMotors.FwdServoClient,
+        right: fwdMotors.FwdServoClient,
         bias = 0
     ) {
         drivingControls.initMotors(left, right, bias)
