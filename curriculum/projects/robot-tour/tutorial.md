@@ -7,7 +7,7 @@ fwd-robot-tour=github:Forward-Education/pxt-robot-tour#v1.0.2
 ## Robot Tour Tutorial @showdialog
 In this tutorial, you'll learn how to control your **Robot Tour** vehicle with the different MakeCode blocks available in Forward Education's Robot Tour extension.
 
-<img src="https://raw.githubusercontent.com/Forward-Education/pxt-robot-tour/main/curriculum/projects/robot-tour/render.png" alt="Final robot tour render" style="display: block; width: 100%; margin:auto;">
+<img src="https://raw.githubusercontent.com/Forward-Education/pxt-robot-tour/main/curriculum/projects/robot-tour/render.webp" alt="Final robot tour render" style="display: block; width: 100%; margin:auto;">
 
 
 ## Step 1 @showdialog

@@ -8,7 +8,11 @@
         "fwd-sonar": "github:Forward-Education/pxt-fwd-modules/fwd-sonar#v1.0.10",
         "fwd-servo-continuous": "github:Forward-Education/pxt-robot-tour/fwd-servo-continuous#v1.0.1"
     },
-    "files": [],
+    "files": [
+        "README.md",
+        "curriculum/projects/robot-tour/tutorial.md",
+    ],
+
     "targetVersions": {
         "target": "7.0.61",
         "targetId": "microbit"
