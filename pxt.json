@@ -10,7 +10,8 @@
     },
     "files": [
         "README.md",
-        "curriculum/projects/robot-tour/tutorial.md"
+        "curriculum/projects/robot-tour/tutorial.md",
+        "tutorial-info-cache.json"
     ],
     "targetVersions": {
         "target": "8.0.16",
