@@ -1,6 +1,6 @@
 {
     "name": "fwd-robot-tour",
-    "version": "1.0.3",
+    "version": "1.0.4",
     "description": "Forward Education blocks for Robot Tour 2025",
     "license": "MIT",
     "dependencies": {
