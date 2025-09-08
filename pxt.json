@@ -1,6 +1,6 @@
 {
     "name": "fwd-robot-tour",
-    "version": "1.0.2",
+    "version": "1.0.3",
     "description": "Forward Education blocks for Robot Tour 2025",
     "license": "MIT",
     "dependencies": {
@@ -12,7 +12,6 @@
         "README.md",
         "curriculum/projects/robot-tour/tutorial.md"
     ],
-
     "targetVersions": {
         "target": "8.0.16",
         "targetId": "microbit"
