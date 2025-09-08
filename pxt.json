@@ -10,7 +10,7 @@
     },
     "files": [
         "README.md",
-        "curriculum/projects/robot-tour/tutorial.md",
+        "curriculum/projects/robot-tour/tutorial.md"
     ],
 
     "targetVersions": {
